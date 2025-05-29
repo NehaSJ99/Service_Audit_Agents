@@ -1,0 +1,12 @@
+ticket_id,customer_id,issue_type,issue_description,priority,date_submitted,response_time_minutes,resolution_time_minutes,satisfaction_rating,customer_comments,agent_id,resolved
+T0001,C0511,API Issue,I'm pleased with how my issue was handled. Thanks!,High,2023-03-25,240,927,4,I'm pleased with how my issue was handled. Thanks!,A004,True
+T0002,C0729,Login Issue,Excellent service! The agent went above and beyond.,Low,2023-04-06,223,534,5,The problem still persists. Not resolved yet.,A004,False
+T0003,C0439,Report Generation,Resolution was satisfactory but could be improved.,Low,2023-04-25,214,592,1,"The issue was escalated quickly, which was appreciated.",A004,False
+T0004,C0100,Data Import,Agent was very helpful and polite. Great service!,High,2023-02-20,110,864,2,The issue was resolved quickly. Very satisfied!,A003,True
+T0005,C0258,Feature Request,"My issue was handled well, but follow-up could be better.",Medium,2023-01-18,151,193,2,The problem still persists. Not resolved yet.,A004,False
+T0006,C0526,Data Import,It took too long to resolve the issue. Not happy.,Low,2023-06-10,134,194,2,This is the second time I'm facing this issue. Frustrating!,A002,True
+T0007,C0415,Feature Request,It took too long to resolve the issue. Not happy.,High,2023-01-10,64,232,1,The support team was unresponsive at first.,A001,False
+T0008,C0602,Login Issue,Resolution was satisfactory but could be improved.,Critical,2023-02-22,132,578,5,Good support but the resolution could have been faster.,A002,True
+T0009,C0934,API Issue,It took too long to resolve the issue. Not happy.,High,2023-06-23,57,46,4,This is the second time I'm facing this issue. Frustrating!,A004,False
+T0010,C0410,Feature Request,Good support but the resolution could have been faster.,Critical,2023-03-28,223,1230,3,This was a critical issue that took too long to resolve.,A002,True
+T0011,C0966,Report Generation,Agent was very helpful and polite. Great service!,High,2023-03-12,192,1284,2,The issue was ignored for too long. Disappointing.,A001,False
