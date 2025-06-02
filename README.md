@@ -60,7 +60,7 @@ This repository contains a modular multi-agent system for analyzing customer sup
    ```bash
    python src/test_crew.py
    ```
-3. 2. **To train the Crew setup**
+3. **To train the Crew setup**
    ```bash
    python src/train_crew.py
    ```
