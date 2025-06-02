@@ -132,7 +132,7 @@ plt.savefig('issue_distribution.png')
 plt.show()
 ```
 
-URL: [Download Issue Distribution Chart](./issue_distribution.png)
+URL: [Download Issue Distribution Chart](https://github.com/NehaSJ99/Service_Audit_Agents/blob/master/src/outputs/issue_distribution.png))
 
 ### Chart 2: Priority Levels
 This chart shows the breakdown of tickets by priority level. A pie chart can effectively depict this data.
