@@ -42,7 +42,7 @@ This repository contains a modular multi-agent system for analyzing customer sup
    ```
 
 4. **Add your OpenAI API key**
-   - Create a `.env` file in the root directory:
+  Create a `.env` file in the root directory:
      ```
      OPENAI_API_KEY=your_api_key_here
      ```
