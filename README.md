@@ -153,7 +153,7 @@ plt.savefig('priority_levels.png')
 plt.show()
 ```
 
-URL: [Download Priority Levels Chart](./priority_levels.png)
+URL: [Download Priority Levels Chart](https://github.com/NehaSJ99/Service_Audit_Agents/blob/master/src/outputs/priority_levels.png)
 
 ### Chart 3: Resolution Times Trend
 This trend line shows average resolution times over the past months. We will need to generate synthetic monthly resolution data, as it's not provided directly.
@@ -175,7 +175,7 @@ plt.savefig('resolution_times_trend.png')
 plt.show()
 ```
 
-URL: [Download Resolution Times Trend Chart](./resolution_times_trend.png)
+URL: [Download Resolution Times Trend Chart](https://github.com/NehaSJ99/Service_Audit_Agents/blob/master/src/outputs/resolution_times.png)
 
 ### Chart 4: Customer Satisfaction Over Time
 This chart can either be a bar chart or trend line showing customer satisfaction ratings over time.
@@ -198,7 +198,7 @@ plt.savefig('customer_satisfaction.png')
 plt.show()
 ```
 
-URL: [Download Customer Satisfaction Chart](./customer_satisfaction.png)
+URL: [Download Customer Satisfaction Chart](https://github.com/NehaSJ99/Service_Audit_Agents/blob/master/src/outputs/customer_satisfaction.png)
 
 ### Chart 5: Agent Performance
 This chart compares the performance of different agents based on resolution times and customer satisfaction scores. A scatter plot can effectively show this relationship.
@@ -226,7 +226,7 @@ plt.savefig('agent_performance.png')
 plt.show()
 ```
 
-URL: [Download Agent Performance Chart](./agent_performance.png)
+URL: [Download Agent Performance Chart](https://github.com/NehaSJ99/Service_Audit_Agents/blob/master/src/outputs/agent_performance_satisfaction.png)
 
 ### All charts have been generated and saved as image files, ready for integration into the final report.
 ---
